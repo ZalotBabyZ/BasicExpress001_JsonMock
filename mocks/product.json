@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Lactasoy",
+        "price": 10,
+        "category": "Beverage",
+        "image": [],
+        "totalSale": 1500
+    },
+    {
+        "id": 2,
+        "name": "Lay",
+        "price": 30,
+        "category": "Snack",
+        "image": [],
+        "totalSale": 250
+    },
+    {
+        "id": 3,
+        "name": "BubbleTea",
+        "price": 45,
+        "category": "Beverage",
+        "image": [],
+        "totalSale": 500
+    }
+]
